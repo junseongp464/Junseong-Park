@@ -1,0 +1,31 @@
+img {
+    width: 350px;
+}
+
+h1{
+    color:white;
+}
+
+div{
+    color: white;
+}
+li{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color:black
+}
+
+ol{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.container{
+    width: 88%;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 40px;
+    border-radius: 70px;
+    margin: 60px;
+}
